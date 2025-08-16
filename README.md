@@ -24,4 +24,7 @@ A lightweight Windows batch script that automates the process of merging multipl
 4. Save and close
 5. Run the batch scipt: ComboLogger.bat
 6. The folder with the file "combined.txt" should appear
---END--
+
+## Contributing
+Pull requests and suggestions are welcome.
+If you encounter a bug or have an idea for improvement, feel free to open an issue.
